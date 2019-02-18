@@ -19,7 +19,7 @@ end
 
 
 def return_a_value
-  puts 'Nice'
+  'Nice'
 end
 
 
